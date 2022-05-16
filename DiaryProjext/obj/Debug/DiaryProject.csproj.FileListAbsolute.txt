@@ -1,0 +1,12 @@
+D:\visual studio projects\DiaryProjext\DiaryProjext\obj\Debug\DiaryProject.csproj.SuggestedBindingRedirects.cache
+D:\visual studio projects\DiaryProjext\DiaryProjext\obj\Debug\DiaryProjext.Form1.resources
+D:\visual studio projects\DiaryProjext\DiaryProjext\obj\Debug\DiaryProjext.Properties.Resources.resources
+D:\visual studio projects\DiaryProjext\DiaryProjext\obj\Debug\DiaryProject.csproj.GenerateResource.cache
+D:\visual studio projects\DiaryProjext\DiaryProjext\obj\Debug\DiaryProject.csproj.CoreCompileInputs.cache
+D:\visual studio projects\DiaryProjext\DiaryProjext\obj\Debug\DiaryProjext.exe
+D:\visual studio projects\DiaryProjext\DiaryProjext\obj\Debug\DiaryProjext.pdb
+D:\visual studio projects\DiaryProjext\DiaryProjext\bin\Debug\DiaryProjext.exe.config
+D:\visual studio projects\DiaryProjext\DiaryProjext\bin\Debug\DiaryProjext.exe
+D:\visual studio projects\DiaryProjext\DiaryProjext\bin\Debug\DiaryProjext.pdb
+D:\visual studio projects\DiaryProjext\DiaryProjext\obj\Debug\DiaryProject.csproj.AssemblyReference.cache
+D:\visual studio projects\DiaryProjext\DiaryProjext\obj\Debug\DiaryProjext.FormMain.resources
